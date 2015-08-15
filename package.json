@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "rm -rf node_modules; npm install; cp bad-package.json node_modules/package.json && npm3 ls"
+    "test": "rm -rf node_modules; npm install; cp bad-package.json node_modules/package.json && npm ls"
   },
   "keywords": [],
   "author": "Tim Oxley <secoif@gmail.com>",
